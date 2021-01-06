@@ -27,4 +27,4 @@ jobs:
                     file: ./Dockerfile
                     platforms: linux/amd64,linux/arm64,linux/386
                     push: true
-                    tags: ghcr.io/docker-openssh-server/docker-openssh-server:latest
+                    tags: ghcr.io/dnap/docker-openssh-server:latest
